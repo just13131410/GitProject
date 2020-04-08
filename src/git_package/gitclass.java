@@ -5,6 +5,7 @@ public class gitclass {
 	     System.out.println("Hello Java");  
 	     System.out.println("Hello GitHub");  
 	     System.out.println("Hello GitHub2");  
+	     System.out.println("Hello GitHub2");  
 	 }  
 
 }
